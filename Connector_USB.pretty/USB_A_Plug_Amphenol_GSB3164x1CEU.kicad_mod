@@ -1,4 +1,4 @@
-(module USB_A_Plug_Amphenol_GSB3164x1CEU (layer F.Cu) (tedit 5FD62F00)
+(module USB_A_Plug_Amphenol_GSB3164x1CEU (layer F.Cu) (tedit 5FD63F16)
   (attr smd)
   (fp_text reference REF** (at 0 1.85) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -25,6 +25,8 @@
   (pad 8 smd rect (at 2 -2.85) (size 0.8 2.78) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 3 -2.85) (size 0.8 2.78) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1 -2.85) (size 0.8 2.78) (layers F.Cu F.Paste F.Mask))
+  (pad "" np_thru_hole circle (at 2.25 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -2.25 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
   (model ${KIPRJMOD}/library/Connector_USB.3dshapes/USB_A_Plug_Amphenol_GSB3164x1CEU.stp
     (offset (xyz 0.1 -8.1 1.5))
     (scale (xyz 1 1 1))
