@@ -1,4 +1,5 @@
-(module USB_C_Receptacle_Amphenol_10137065 (layer F.Cu) (tedit 5FD61FED)
+(module USB_C_Receptacle_Amphenol_10137065 (layer F.Cu) (tedit 5FD6293B)
+  (attr smd)
   (fp_text reference REF** (at 0 1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

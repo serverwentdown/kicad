@@ -21,6 +21,14 @@ KiCad footprints I created or imported that you might find useful
 ![Footprint](images/USB_A_Receptacle_Amphenol_10117835-footprint.png)
 ![3D Model](images/USB_A_Receptacle_Amphenol_10117835-3d.jpg)
 
+### USB A Plug: Amphenol ICC GSB316441CEU
+
+- [Footprint](Connector_USB.pretty/USB_A_Plug_Amphenol_GSB3164x1CEU.kicad_mod)
+- [3D Model](Connector_USB.3dshapes/USB_A_Plug_Amphenol_GSB3164x1CEU.stp) from Amphenol
+
+![Footprint](images/USB_A_Plug_Amphenol_GSB3164x1CEU-footprint.png)
+![3D Model](images/USB_A_Plug_Amphenol_GSB3164x1CEU-3d.jpg)
+
 ## Buttons, Switches: SMD
 
 ### SPDT: Multicomp MSS3-V-T/R
