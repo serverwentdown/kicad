@@ -1,4 +1,4 @@
-(module 10137065-00021LF (layer F.Cu) (tedit 5FD4B003)
+(module USB_C_Receptacle_Amphenol_10137065 (layer F.Cu) (tedit 5FD61FED)
   (fp_text reference REF** (at 0 1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -47,7 +47,7 @@
   (pad B8 smd rect (at -0.875 -4.2) (size 0.275 0.8) (layers F.Cu F.Paste F.Mask))
   (pad B4 smd rect (at 1.125 -4.2) (size 0.275 0.8) (layers F.Cu F.Paste F.Mask))
   (pad B9 smd rect (at -1.375 -4.2) (size 0.275 0.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/usbreset.pretty/10137065.stp
+  (model ${KIPRJMOD}/library/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_10137065.stp
     (offset (xyz -4.15 -2 -0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

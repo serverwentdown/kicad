@@ -1,4 +1,4 @@
-(module 10117835 (layer F.Cu) (tedit 5FD4B367)
+(module USB_A_Receptacle_Amphenol_10117835 (layer F.Cu) (tedit 5FD6207C)
   (fp_text reference REF** (at 0 7.62) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -24,4 +24,9 @@
   (pad 9 thru_hole circle (at -4 -6.93) (size 1.208 1.208) (drill 0.7) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at -6.57 -3.43) (size 2.7 2.7) (drill 2.3) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 6.57 -3.43) (size 2.7 2.7) (drill 2.3) (layers *.Cu *.Mask))
+  (model ${KIPRJMOD}/library/Connector_USB.3dshapes/USB_A_Receptacle_Amphenol_10117835.stp
+    (offset (xyz 0 7.6 6.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 0))
+  )
 )
